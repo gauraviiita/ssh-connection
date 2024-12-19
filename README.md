@@ -35,5 +35,6 @@ Step 5: Connect to the Server
 From the client machine, use the ssh command:
 ```
 ssh username@server_ip
+ssh gyadav@127.0.0.1
 ```
 Enter the server login password 
