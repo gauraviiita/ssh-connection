@@ -52,4 +52,5 @@ Command to connect with mosh
 ```
 sudo apt install mosh
 mosh gyadav@ebberg.techfak.uni-bielefeld.de
+ssh gyadav@129.70.143.210
 ```
