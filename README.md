@@ -48,8 +48,8 @@ Bielefeld VPN support page - [Support of the Faculty of Technology](https://www.
 download this [file](https://www.techfak.net/assets/files/openvpn-techfak-tcp.ovpn)
 
 Command to connect with mosh
-s
-´´´
+
+```
 sudo apt install mosh
 mosh gyadav@ebberg.techfak.uni-bielefeld.de
-´´´
+```
