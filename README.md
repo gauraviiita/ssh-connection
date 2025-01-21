@@ -37,4 +37,12 @@ From the client machine, use the ssh command:
 ssh username@server_ip
 
 ```
-Enter the server login password 
+Enter the server login password. 
+
+
+
+### Connect to VPN:
+
+Bielefeld VPN support page - [Support of the Faculty of Technology](https://www.google.com/search?q=techfak+vpn&oq=techfak+vpn&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIHCAMQABjvBTIHCAQQABjvBdIBCDUzNDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#:~:text=VPN%20%2D%20Support%20of%20the%20Faculty%20of%20Technology)
+
+download this [file](https://www.techfak.net/assets/files/openvpn-techfak-tcp.ovpn)
