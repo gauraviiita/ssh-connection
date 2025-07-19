@@ -1,4 +1,4 @@
-# ssh-connection
+## ssh-connection
 
 **Connect to a Remote Server via SSH from Ubuntu**
 
